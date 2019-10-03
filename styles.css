@@ -1,0 +1,63 @@
+html {
+    background-image: url("image-cache/parchment-background.png");
+    background-size: contain;
+}
+
+#head-text{
+    position: relative;
+    left:100px;
+}
+
+main {
+    position: relative;
+    left:100px;
+}
+
+#pf-logo {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    left:100px;
+    scale: 100%;
+    height: 150px;
+}
+
+#h-leader{
+    scale: 100%;
+    height: 150px;
+}
+
+#h-alc{
+    scale: 100%;
+    height: 150px;
+}
+
+#h-arc{
+    scale: 100%;
+    height: 150px;
+}
+
+#h-sor{
+    scale: 100%;
+    height: 150px;
+}
+
+#g-lan{
+    scale: 100%;
+    height: 150px;
+}
+
+#g-sor{
+    scale: 100%;
+    height: 150px;
+}
+
+#g-arc{
+    scale: 100%;
+    height: 150px;
+}
+
+#g-bom{
+    scale: 100%;
+    height: 150px;
+}
